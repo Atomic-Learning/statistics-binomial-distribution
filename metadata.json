@@ -1,22 +1,20 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Statistics: Binomial Distribution",
+    "slug": "statistics-binomial-distribution",
+    "description": "How the binomial distribution describes the probability of k successes from n trials.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "maths",
+        "statistics"
     ],
-    "duration": 0,
+    "duration": 4,
     "prerequisites": [
-        "",
-        ""
+        "maths-combinations-binomial-coefficient",
+        "maths-probability-mass-functions"
     ],
     "related": [
-        "",
-        ""
     ]
 }
