@@ -14,6 +14,8 @@ The following are common notations for a binomial random variable with $n$ trial
 - $X \sim \mathrm{Binomial}(n,p)$
 - $X \sim B(n,p)$
 
+where $X$ is the random variable denoting the number of successes.
+
 # Requirements
 
 For the binomial distribution to be applicable, the following requirements must be met:
