@@ -25,4 +25,4 @@ $$
 
 The overall probability mass function is displayed in the figure below:
 
-![Binomial PMF: Number of Heads in 10 Fair Coin Tosses. The distribution is peaked around 5 heads with a very low probability of 0 or 10 heads.](coin_toss_pmf.png)
+![Binomial PMF: Number of Heads in 10 Fair Coin Tosses. The distribution is peaked around 5 heads with a very low probability of 0 or 10 heads.](resources/coin_toss_pmf.png)
