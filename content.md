@@ -6,6 +6,14 @@ $$
 
 where $n$ is the number of trials, $k$ is the number of successes, and $p$ is the probability of success in one trial.
 
+# Common Notations
+
+The following are common notations for a binomial random variable with $n$ trials and success probability $p$:
+
+- $X \sim \mathrm{Bin}(n,p)$
+- $X \sim \mathrm{Binomial}(n,p)$
+- $X \sim B(n,p)$
+
 # Requirements
 
 For the binomial distribution to be applicable, the following requirements must be met:
